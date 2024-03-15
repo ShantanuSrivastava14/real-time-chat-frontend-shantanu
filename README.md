@@ -51,7 +51,6 @@ This repository contains the source code for a real-time chat application built 
 ### Deployment
 
 - The frontend is deployed on Vercel at ([https://real-time-chat-frontend-shantanu.vercel.app](https://real-time-chat-frontend-shantanu.vercel.app/)).
-- The WebSocket backend is deployed on Heroku at [https://your-heroku-app-url.herokuapp.com](https://your-heroku-app-url.herokuapp.com).
 
 ### Directory Structure
 
@@ -60,7 +59,6 @@ real-time-chat-frontend-shantanu/
 |-- index.html
 |-- styles.css
 |-- client.js
-|-- server.js
 |-- README.md
 ```
 
